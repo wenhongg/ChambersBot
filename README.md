@@ -12,7 +12,9 @@ Request the list of reminders by typing `chamberlist`. The times returned are in
 
 Type `clearlist` to clear all reminders in the list.
 
-## Useful steps:
+## Important steps:
+
+**Remember to place .env file in the root folder.**
 
 ### Initial deploy steps:
 ```
